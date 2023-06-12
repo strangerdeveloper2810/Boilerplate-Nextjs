@@ -37,7 +37,6 @@ axios.interceptors.response.use(
 );
 
 configure({ axios, cache });
-
 /**
  * Giải thích:
 
